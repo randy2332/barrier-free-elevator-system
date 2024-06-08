@@ -6,7 +6,7 @@ The concept of this project is to design a specialized elevator that is friendly
 
 ### system structure
 
-![截圖 2024-06-08 下午4.02.13.png](barrier-free%20elevator%20system%2072afa05f4eae413db0f4037bdfcfafcc/%25E6%2588%25AA%25E5%259C%2596_2024-06-08_%25E4%25B8%258B%25E5%258D%25884.02.13.png)
+![截圖 2024-06-08 下午4.02.13.png](https://github.com/randy2332/barrier-free-elevator-system/blob/main/systemstructure.png)
 
 ---
 
