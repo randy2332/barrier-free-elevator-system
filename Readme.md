@@ -20,7 +20,7 @@ compile:  `make`
 
 `./txt_input <pid> <file>`
 
-1. actual use
+2. actual use
 
 server :
 
