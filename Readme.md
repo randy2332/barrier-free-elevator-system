@@ -44,5 +44,5 @@ After opening the lens, the thumb up or down represent go up or down
 
 ---
 
-### Demo
+### Demo Video
 [![IMAGE ALT TEXT](https://github.com/randy2332/barrier-free-elevator-system/blob/main/videopic.png)](https://drive.google.com/file/d/13yl_2hEAa3cj4BzRLwg5BLtDgNS-B7fm/view?usp=sharing)
