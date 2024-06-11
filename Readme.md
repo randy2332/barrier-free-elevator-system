@@ -38,7 +38,7 @@ normal user
 
 disable person
 
-`./python3 mymediapipe.py   you can change “name”,”type”,”floor you are now”,”destination” in this file 
+`./python3 mymediapipe.py`  you can change “name”,”type”,”floor you are now”,”destination” in this file 
 
 After opening the lens, the thumb up or down represent go up or down
 
